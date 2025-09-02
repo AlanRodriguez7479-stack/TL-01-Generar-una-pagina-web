@@ -10,10 +10,7 @@ La página incluye secciones con características físicas, datos curiosos, imá
 - Elementos interactivos.  
 - Lista de curiosidades.  
 
-#📸 Capturas de pantalla
+#Captura de pantalla 📸 
 
-![Vista principal](imagenes/1.jpg)
+<img width="883" height="911" alt="image" src="https://github.com/user-attachments/assets/5ef4084a-30e3-4ee7-8a35-6414463546e5" />
 
-![Macho y Hembra](imagenes/2.jpg)
-
-![Galería](imagenes/3.jpg)
